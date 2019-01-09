@@ -1,0 +1,46 @@
+
+/* Style for the plug */
+
+
+.sixclicks_plug_add h2{
+	position: relative;
+	left:-20px;
+  
+}
+
+.sixclicks_plug_add p {
+	margin: 0px;
+	padding: 0px;
+  
+}
+
+.sixclicks_plug_add i.fa{
+	position: absolute;
+}
+
+.sixclicks_plug_add .fa::before{
+	    left: -26px;
+        position: relative;
+        top: 1px;
+}
+
+.sixclicks_plug_add .fa-mobile::before{
+	    left: -24px;
+        position: relative;
+        top: -3px;
+  
+        font-size: 1.5em;
+}
+
+.sixclicks_plug_add .fa-map-marker::before{
+	   
+        font-size: 1.5em;
+}
+
+
+
+
+.sixclicks_plug_add a{text-decoration: none;
+	 font-family:"Lato", "Helvetica Neue", Helvetica!important;
+}
+.icon-mail2{ margin-left; 20px}
